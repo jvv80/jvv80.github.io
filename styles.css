@@ -10,8 +10,8 @@ p {
 	color: #009933;
 }
 .ex1 {
-	width: 100px;
-	height: 100px;
+	border-width: 100px;
+	border-height: 100px;
 	border: 2px;
 	border-style: dotted;
 }
