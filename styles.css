@@ -12,5 +12,6 @@ p {
 .ex1 {
 	width: 100px;
 	height: 100px;
-	border: 2px dotted #73AD21;
+	border: 2px;
+	border-style: dotted;
 }
