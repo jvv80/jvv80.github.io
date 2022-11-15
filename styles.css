@@ -1,5 +1,5 @@
 body {
-	background: #7fffd4;
+	background: #000000;
 	color: #ffffff;
 }
 h1 {
@@ -7,4 +7,5 @@ h1 {
 }
 p {
 	font-size: 20px
+	color: green;
 }
