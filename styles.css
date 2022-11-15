@@ -18,6 +18,5 @@ ul {
 .ex1 {
 	width: 100px;
 	height: 100px;
-  	border: 2px dotted; 
-	color: #ffffff;
+  	border: 2px solid #ffffff;
 }
