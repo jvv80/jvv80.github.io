@@ -15,7 +15,7 @@ ol {
 ul {
 	list-style-type: square;
 }
-.ex1 {
+div.ex1 {
 	border-style: dotted;
 	border-width: 100px;
 	border-height: 100px;
