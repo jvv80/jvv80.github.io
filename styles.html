@@ -4,40 +4,64 @@
 	    <meta charset="utf-8">
 	    <title>FC Mellunkylä</title>
 		<style> 
+			.topbar {
+				padding: 40px;
+  				text-align: center;
+  				background: #1abc9c;
+  				color: #ffffff;
+  				font-size: 30px;
+			}
+			.sidebar {
+				width:15%;
+				padding-top: 28%;
+    				float: left;
+				background: #228B22;
+				color: #ffffff;
+			}
+			.postcontent {
+				width:85%;
+				float: right;
+			}
 			.ex1 {
-				width: 700px;
-				height: 200px;
+				width: 99%;
+				text-align: center;
 				border: 8px solid #000000;
-				}
+			}
+			.MyLi {
+				display: inline-block;
+				text-align: left;
+			}
 		</style>
 		
-		<link rel="stylesheet" href="styles.css">
+		
 	</head>
 	
 	<body>
+	  <div class="topbar">
 	    <h1>FC Mellunkylä</h1>
+		  <p>Second Page&nbsp;&nbsp;&nbsp;&nbsp;Third Page&nbsp;&nbsp;&nbsp;&nbsp;Forth Page</p>
+	  </div>
+	  <div class="sidebar">
+	  </div>
+	  <div class="postcontent">
+	  <div class="ex1">
 	
-	    <p>FC Mellunkylä on online jalkapallojoukkue Hattrick nimisessä pelissä. <br>
-	    Joukkueen olen luonut aikoinaan vuonna 2008, jolloin aloitin Hattrickin pelaamisen. <br>
-	    Ensimmäinen pelirupeamani kesti vuoteen 2012 asti, jolloin kiinnostus peliin lopahti ja lopetin pelaamisen. <br>
-	    Uudelleen aloitin Hattrickin pelaamisen vuonna 2020, kun vanhan joukkueen sai palautettua käyttöön. <br>
-	    Nyt olen taas reilut kaksi vuotta pelannut Hattrickiä. </p>
+	    <p>FC Mellunkylä on online jalkapallojoukkue Hattrick nimisessä pelissä. Joukkueen olen luonut aikoinaan vuonna 2008, jolloin aloitin Hattrickin pelaamisen.<br>
+		  Ensimmäinen pelirupeamani kesti vuoteen 2012 asti, jolloin kiinnostus peliin lopahti ja lopetin pelaamisen. Uudelleen aloitin Hattrickin pelaamisen vuonna 2020,<br> 
+		  kun vanhan joukkueen sai palautettua käyttöön. Nyt olen taas reilut kaksi vuotta pelannut Hattrickiä. </p>
 	
 		    <h2>Mistä pidän Hattrickistä</h2>
-	
-		    <ol>
+		    <ol class="MyLi">
 			    <li>Jalkapallojoukkuuen managerointi kiinnostaa</li>
 			    <li>Pelaajien taitojen kehittäminen innostaa</li>
 		    </ol>
 	
 		    <h2>Mistä en pidä Hattricissa</h2>
-	
-		    <ul>
+		    <ul class="MyLi">
 			    <li>Erittäin hidastempoinen peli</li>
-			    <li>Käyttäjä kato pelistä </li>
+			    <li>Vähentyneet käyttäjämäärät</li>
 		    </ul>
-		<div class="ex1">
-			
-	    	</div>
+	   </div>
+	</div>
     </body>
 </html>
