@@ -4,59 +4,42 @@
 	    <meta charset="utf-8">
 	    <title>Janin sivut</title>
 		<style> 
-			.header {
-				padding: 5px;
-				width: 90%;
-				margin-left: auto;
-				margin-right: auto;
-  				text-align: center;
-  				background: #1abc9c;
-  				color: #ffffff;
-				font-size: 30px
-			}
-			.nav {
-				padding: 5px;
-				width: 90%;
-				margin-left: auto;
-				margin-right: auto;
-				margin-top: 1px;
-  				text-align: center;
-  				background: #1abc9c;
-  				color: #ffffff;
-  				font-size: 20px;
-			}
-			.section {
-				width: 90%;
-				margin-left: auto;
-				margin-right: auto;
-				margin-top: 1px;
-				text-align: center;
-				border: 6px solid #000000;
-			}
-			.footer {
-				width: 90%;
-				margin-left: auto;
-				margin-right: auto;
-				font-size: 13px;
-			}
-		</style>
 		
+		</style>
+		<link rel="stylesheet" href="styles.css">
 		
 	</head>
 	
 	<body>
-	  <div class="header">
+	  <header id="header">
 	    <h1>Koripalloilijasta koodaajaksi</h1>
-	    </div>
-	  <div class="nav">
-		  <p><a href="./styles.html">Main Page</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="./second.html">Second Page</a>&nbsp;&nbsp;&nbsp;&nbsp;Fourth Page</p>
-	  </div>
-	  <div class="section">
+	    </header>
+	  <nav id="nav">
+		  <p><a href="./styles.html">Main Page</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="./second.html">Second Page</a>&nbsp;&nbsp;&nbsp;&nbsp</a></p>
+	  </nav>
+	  <section id="section">
 	
-	    <p>Sitten koitti syksy 2022 ja Laureassa aloitin opiskelut, joihin kuului myös HTML5 ja CSS opiskeleminen verkkosivujen kehittäminen kurssilla</p>
-	   </div>
+	    <p class="one">Ensimmäisenä kiinnostuin android äpeistä ja halusin oppia tekemään niitä androi pohjaisiin älypuhelimiin ja tabletteihin. Tämän vuoksi myös ensimmäinen ohjelmointikieleni,<br> 
+	       jota aloin harjoitella liittyi tähän ympäristöön. Tämän vuoksi aloin tutustua Javaan, jolla sain tehtyä ensimmäisen android äppini kesällä 2019. Javan jälkeen tajusin,<br> 
+	       että tulevaisuudessa kotlin on android pohjaiseen ohjelmointiin parempi ja tulevaisuudessa enemmän käytetty, joten kesällä 2020 aloin opetella kotlinia.
+		</p><br>
+		  <p>Android ohjelmoinnissa kehittymiseni:</p><br>
+		  <label for="file">Android App valmis:</label>
+		  <progress id="file" value="92" max="100"> 92% </progress><br>
+		  &nbsp;<br>
+		  
+		<artickle id="artickle">
+			<p>Ensimmäisenä valmistui ikioma android sovellukseni, joka sai nimekseen PerusOpeII</p> 
+			<img src="./opeappi.jpg" alt="kuva apin kuvakkeesta">
+			<p>Ensimmäisen sovelluksen aloitus näkymä, kun sovelluksen avaa</p>
+			<figure>
+		  	  <img src="./opeappi2.jpg" alt="kuva apista">
+				<figcaption>Kuva - PerusOpeII, Sovelluksen päänäkymä</figcaption>
+			</figure>
+			</artickle>
+		</section>
 		<div class="footer">
-		<p><i>copyright &copy Jani Rahikainen 2022</i></p>
+		<p>copyright &copy;Jani Rahikainen 2022</p>
 	</div>
     </body>
 </html>
