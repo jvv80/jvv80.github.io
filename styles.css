@@ -4,6 +4,13 @@ body {
 	margin-right: auto;
 	background-image: url('androidstudio.jpg');
 }
+.footer {
+	font-size: 13px;
+	color: #ffffff;
+}
+h1 {
+	border: 4px solid #000000;
+}
 .header {
 	padding: 5px;
 	margin-top: 3px;
@@ -12,12 +19,20 @@ body {
   	color: #ffffff;
 	font-size: 30px
 }
+.MyLi {
+	display: inline-block;
+	text-align: left;
+}
 .nav {
 	padding: 5px;
   	text-align: center;
   	background: #1abc9c;
   	color: #ffffff;
   	font-size: 20px;
+}
+.one {
+	border: 4px solid #000000;
+	background: #FF0000;
 }
 .section {
 	margin-top: 1px;
@@ -26,16 +41,4 @@ body {
 }
 .section2 {
 	background: #ffffff;
-}
-.MyLi {
-	display: inline-block;
-	text-align: left;
-}
-.footer {
-	font-size: 13px;
-	color: #ffffff;
-}
-.one {
-	border: 4px solid #000000;
-	background: #FF0000;
 }
