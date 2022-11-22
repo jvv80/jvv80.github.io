@@ -33,6 +33,7 @@ h1 {
 .one {
 	border: 4px solid #000000;
 	background: #FF0000;
+	font-size: 15px;
 }
 .section {
 	margin-top: 1px;
