@@ -4,7 +4,7 @@ body {
 	margin-right: auto;
 	background-image: url('androidstudio.jpg');
 }
-			@media (max-width: 600px) {
+			@media (max-width: 481px) {
   				aside, artickle {
     				width: 100%;
 				height: auto; 
