@@ -50,9 +50,10 @@ body {
 }
 			#th {
 				text-align: center;
+				width: 25px;
 }
 			#table {
-				style=widht:100%;
+				widht:75px;
 }
 }
 .footer {
