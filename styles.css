@@ -49,7 +49,8 @@ body {
 				border: 1px solid black;
 }
 			#td {
-				vertical-align: top center;
+				vertical-align: top;
+				text-align: center;
 				width: 350px;
 				border: 1px solid black;
 }
