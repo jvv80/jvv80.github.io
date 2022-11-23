@@ -40,21 +40,6 @@ body {
   				display: table;
   				clear: both;
 }
-			#th {
-				text-align: center;
-				width: 350px;
-				border: 1px solid black;
-}
-			#th2 {
-				text-align: left;
-				width: 350px;
-				border: 1px solid black;
-}
-			#td {
-				vertical-align: top;
-				width: 350px;
-				border: 1px solid black;
-}
 			#table {
 				border: 1px solid black;
 }		
@@ -118,4 +103,15 @@ h1 {
 }
 img {
 	width:150px;
+}
+.th {
+	text-align: center;
+	width: 350px;
+	border: 1px solid black;
+}
+		
+.td {
+	vertical-align: top;
+	width: 350px;
+	border: 1px solid black;
 }
