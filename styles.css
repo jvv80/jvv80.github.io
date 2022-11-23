@@ -45,18 +45,18 @@ body {
 }
 			#th {
 				text-align: center;
-				width: 125px;
+				width: 200px;
 				border: 1px solid black;
 }
 			#td {
 				vertical-align: top;
-				width: 125px;
+				width: 200px;
 				border: 1px solid black;
 }
 			#table {
 				border: 1px solid black;
 }			
-			@media (max-width: 125px) {
+			@media (max-width: 500px) {
   				aside, artickle {
     				width: 100%;
 				height: auto; 
