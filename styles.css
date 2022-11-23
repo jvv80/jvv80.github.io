@@ -45,10 +45,10 @@ body {
 }
 			#th {
 				text-align: center;
-				width: 25px;
+				width: 35px;
 }
 			#table {
-				widht:75px;
+				widht:105px;
 }			
 			@media (max-width: 100px) {
   				aside, artickle {
