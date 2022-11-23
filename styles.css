@@ -41,7 +41,7 @@ body {
   				clear: both;
 }
 			#table {
-				border: 1px solid black;
+			
 }		
 			#img {
 				display: block;
@@ -107,15 +107,12 @@ img {
 .th {
 	text-align: center;
 	width: 350px;
-	border: 1px solid black;
 }
 .th2 {
 	text-align: left;
 	width: 350px;
-	border: 1px solid black;
 }	
 .td {
 	vertical-align: top;
 	width: 350px;
-	border: 1px solid black;
 }
