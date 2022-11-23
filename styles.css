@@ -56,7 +56,7 @@ body {
 			#table {
 				border: 1px solid black;
 }			
-			@media (max-width: 100px) {
+			@media (max-width: 125px) {
   				aside, artickle {
     				width: 100%;
 				height: auto; 
