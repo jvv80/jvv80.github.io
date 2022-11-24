@@ -25,7 +25,7 @@ body {
 }
 			#aside {
 				float: left;
-  				width: 55%;
+  				width: 20%;
 				height: 500px;
  		 		background: #ccc;
   				padding: 20px;
@@ -33,7 +33,7 @@ body {
 			#artickle {
 				float: left;
   				padding: 20px;
-  				width: 45%;
+  				width: 80%;
 				height: 500px;
  				background-color: #f1f1f1;
 }
