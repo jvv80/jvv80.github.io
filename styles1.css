@@ -15,7 +15,7 @@ body {
 				padding: 10px;
 }
 			#nav {
-  				text-align: center top;
+  				text-align: center, top;
   				background: #000000;
   				color: #ffffff;
   				font-size: 17px;
