@@ -63,7 +63,7 @@ body {
 			#nav a { 
 				text-decoration: none;
 				padding-right: 10px;
-				hover=color:#0099CC;
+				a:hover {color:#0099CC;}
 }
 			#nav li { 
 				display: inline; 
