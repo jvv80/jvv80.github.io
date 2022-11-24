@@ -127,6 +127,7 @@ nav ul {
 }
 nav a {
 	text-decoration: none;
+	padding-right: 15px;
 	color: #000000;
 }
 #menu li { 
