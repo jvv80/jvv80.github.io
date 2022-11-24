@@ -64,7 +64,10 @@ body {
 	border: 4px solid #000000;
 	border-radius: 25px;
 }
-h3 {
+.h3 {
+	text-align: center;
+}
+h5 {
 	text-align: center;
 }
 .header {
