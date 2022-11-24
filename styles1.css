@@ -19,7 +19,7 @@ body {
   				background: #1abc9c;
   				color: #ffffff;
   				font-size: 20px;
-				padding: 1px;
+				padding: 1px 1px 1px 1px;
 }
 			#aside {
 				float: left;
