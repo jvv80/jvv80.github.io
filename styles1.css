@@ -51,7 +51,7 @@ body {
 				vertical-align: top;
 }
 			@media (max-width: 481px) {
-  				aside, artickle {
+  				aside, artickle nav {
     				width: 100%;
 				height: auto; 
 }
