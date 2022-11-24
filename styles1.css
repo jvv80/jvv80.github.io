@@ -57,6 +57,16 @@ body {
 				height: auto; 
 }
 }
+			#nav ul { 
+				list-style-type: none;
+}
+			#nav a { 
+				text-decoration: none;
+				padding-right: 10px; 
+}
+			#nav li { 
+				display: inline; 
+}
 .footer {
 	font-size: 13px;
 	color: #ffffff;
