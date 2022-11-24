@@ -127,6 +127,7 @@ nav a {
 }
 #menu li { 
 	display: inline;
+	color: #ffffff;
 }
 a:hover {
 	color:#FF0000;
