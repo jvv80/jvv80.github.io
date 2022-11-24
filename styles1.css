@@ -123,19 +123,18 @@ img {
 }
 nav ul { 
 	list-style-type: none;
+	text-align: center;
 }
 nav a {
 	text-decoration: none;
 	padding-right: 10px;
 	color: #000000;
-	text-align: center;
 }
 #menu li { 
 	display: inline;
 }
 #menu a {
 	color: #ffffff;
-	text-align: center;
 }
 #menu a:hover {
 	color:#FF0000;
