@@ -26,6 +26,7 @@ body {
 			#aside {
 				float: left;
   				width: 55%;
+				height: auto;
  		 		background: #ccc;
   				padding: 20px;
 }
@@ -33,6 +34,7 @@ body {
 				float: left;
   				padding: 20px;
   				width: 45%;
+				height: auto;
  				background-color: #f1f1f1;
 }
 			#section::after {
