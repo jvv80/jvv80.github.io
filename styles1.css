@@ -51,6 +51,12 @@ body {
   				margin-right: auto;
 				vertical-align: top;
 }
+			#ul1 { 
+				list-style-type: none; 
+}
+			#a { 
+				text-decoration: none; 
+}
 			@media (max-width: 481px) {
   				aside, artickle {
     				width: 100%;
