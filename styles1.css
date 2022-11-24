@@ -9,14 +9,13 @@ body {
   			box-sizing: border-box;
 }
 			#header {
-  			padding: 5px;
+  			padding: 5px 5px 0px 5px;
   			text-align: center;
   			background: #1abc9c;
   			color: #ffffff;
 			font-size: 30px;
 }
 			#nav {
-			padding: 1px;
   			text-align: center;
   			background: #000000;
   			color: #ffffff;
