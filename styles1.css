@@ -124,10 +124,10 @@ nav ul {
 nav a {
 	text-decoration: none;
 	padding-right: 10px;
-	color: #ffffff;
 }
-#menu li { 
+#menu li a { 
 	display: inline;
+	color: #ffffff;
 }
 a:hover {
 	color:#FF0000;
