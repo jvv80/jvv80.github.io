@@ -125,8 +125,10 @@ nav a {
 	text-decoration: none;
 	padding-right: 10px;
 }
-#menu li a { 
+#menu li { 
 	display: inline;
+}
+#menu a {
 	color: #ffffff;
 }
 a:hover {
