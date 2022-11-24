@@ -138,6 +138,12 @@ nav a {
 #menu a:hover {
 	color:#FF0000;
 }
+#menu a:visited {
+	color:#003366;
+}
 a:hover {
 	color:#FF0000;
+}
+a:visited {
+	color:#003366;
 }
