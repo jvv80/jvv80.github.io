@@ -9,6 +9,7 @@ body {
   				box-sizing: border-box;
 }
 			@media screen and (max-widht: 481px){
+}
 			@media (max-width: 481px) {
   				aside, artickle {
     				width: 90%; 
@@ -84,5 +85,4 @@ nav a {
 }
 a:hover {
 	color:#FF0000;
-}
 }
