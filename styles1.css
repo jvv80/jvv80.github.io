@@ -10,7 +10,7 @@ body {
 }
 			@media screen and (max-widht: 481px){
 				aside, artickle {
-					width: 60%;
+					width: 30%;
 	}
 }
 			@media (max-width: 600px) {
