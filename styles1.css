@@ -15,7 +15,7 @@ body {
 }
 			@media (max-width: 600px) {
   				aside, artickle {
-    				width: 90%; 
+    				width: 100%; 
 }
 }
 			footer {
