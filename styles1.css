@@ -39,9 +39,6 @@ body {
 				content: "";
   				display: table;
   				clear: both;
-}
-			#table {
-			
 }		
 			#img {
 				display: block;
@@ -64,25 +61,6 @@ body {
 }
 .h4 {
 	text-align: center;
-}
-.nav {
-	padding: 5px;
-  	text-align: center;
-  	background: #1abc9c;
-  	color: #ffffff;
-  	font-size: 20px;
-}
-.th {
-	text-align: center;
-	width: 350px;
-}
-.th2 {
-	text-align: left;
-	width: 350px;
-}	
-.td {
-	vertical-align: top;
-	width: 350px;
 }
 nav ul { 
 	list-style-type: none;
