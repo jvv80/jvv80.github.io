@@ -62,12 +62,8 @@ body {
 .h3 {
 	text-align: center;
 }
-h4 {
+.h4 {
 	text-align: center;
-}
-.MyLi {
-	display: inline-block;
-	text-align: left;
 }
 .nav {
 	padding: 5px;
