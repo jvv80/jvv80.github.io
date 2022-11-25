@@ -46,12 +46,6 @@ body {
 				height: 500px;
  				background-color: #f1f1f1;
 }
-			#artickle1 {
-				float: left;
-  				padding: 20px;
-  				width: 82%;
- 				background-color: #f1f1f1;
-}
 			#section::after {
 				content: "";
   				display: table;
