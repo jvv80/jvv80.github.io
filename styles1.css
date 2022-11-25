@@ -13,7 +13,7 @@ body {
 			#menu li {display: none;}
 }
 			@media (max-width: 600px) {
-  				aside, artickle {
+  				aside, .artickle {
 				width: 100%
 }
 }
@@ -43,7 +43,7 @@ body {
  		 		background: #ccc;
   				padding: 20px;
 }
-			artickle {
+			.artickle {
 				float: left;
   				padding: 20px;
   				width: 82%;
