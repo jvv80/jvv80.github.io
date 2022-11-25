@@ -9,8 +9,8 @@ body {
   				box-sizing: border-box;
 }
 			@media screen and (max-widht: 481px){
-				aside, artickle {
-				clear: both;
+				aside {
+				clear: right;
 	}
 			#menu li { 
 				display: none;
