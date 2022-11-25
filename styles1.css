@@ -10,7 +10,7 @@ body {
 }
 			@media screen and (max-widht: 481px){
 				aside, artickle {
-				flex-direction: column;
+				clear: both;
 	}
 }
 			@media (max-width: 600px) {
