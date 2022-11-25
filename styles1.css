@@ -8,6 +8,11 @@ body {
 *			{
   				box-sizing: border-box;
 }
+			footer {
+				font-size: 13px;
+				color: #ffffff;
+				font-style: italic;
+}
 			header {
   				text-align: center;
   				background: #1abc9c;
@@ -51,11 +56,6 @@ body {
   				aside, artickle {
     				width: 100%; 
 }
-}
-.footer {
-	font-size: 13px;
-	color: #ffffff;
-	font-style: italic;
 }
 .h3 {
 	text-align: center;
