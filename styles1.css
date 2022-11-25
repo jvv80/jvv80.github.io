@@ -9,8 +9,11 @@ body {
   				box-sizing: border-box;
 }
 			@media screen and (max-widht: 481px){
+				.column {
+					width: 60%;
+	}
 }
-			@media (max-width: 481px) {
+			@media (max-width: 600px) {
   				aside, artickle {
     				width: 90%; 
 }
