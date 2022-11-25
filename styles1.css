@@ -8,7 +8,7 @@ body {
 *			{
   				box-sizing: border-box;
 }
-			@media screen and (max-widht: 481px){
+			@media screen and (max-width: 481px){
 			#artickle {clear: left;}
 			#menu li {display: none;}
 }
