@@ -15,14 +15,14 @@ body {
 				font-size: 25px;
 				padding: 8px 9px 1px 9px;
 }
-			.nav {
+			#nav {
   				text-align: center;
   				background: #000000;
   				color: #ffffff;
   				font-size: 20px;
 				padding: 1px 1px 1px 1px;
 }
-			#aside {
+			aside {
 				float: left;
   				width: 15%;
 				height: 500px;
