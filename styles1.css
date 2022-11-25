@@ -51,6 +51,7 @@ body {
   				padding: 20px;
   				width: 82%;
  				background-color: #f1f1f1;
+}
 			#section::after {
 				content: "";
   				display: table;
