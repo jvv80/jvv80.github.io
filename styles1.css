@@ -10,7 +10,7 @@ body {
 }
 			@media screen and (max-widht: 481px){
 				aside {
-				clear: right;
+				clear: left;
 	}
 			#menu li { 
 				display: none;
