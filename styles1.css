@@ -9,7 +9,7 @@ body {
   				box-sizing: border-box;
 }
 			@media screen and (max-widht: 481px){
-				.column {
+				aside, artickle {
 					width: 60%;
 	}
 }
