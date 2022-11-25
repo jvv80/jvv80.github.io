@@ -12,7 +12,7 @@ body			{
 	color: #ffffff;
 	font-style: italic;
 }
-#header {
+.header {
   	text-align: center;
   	background: #1abc9c;
   	color: #ffffff;
