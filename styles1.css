@@ -12,6 +12,9 @@ body {
 				aside, artickle {
 				clear: both;
 	}
+			#menu li { 
+				display: none;
+}
 }
 			@media (max-width: 600px) {
   				aside, artickle {
