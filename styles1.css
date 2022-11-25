@@ -9,7 +9,7 @@ body {
   				box-sizing: border-box;
 }
 			@media screen and (max-widht: 481px){
-			aside {clear: left;}
+			.artickle {clear: left;}
 			#menu li {display: none;}
 }
 			@media (max-width: 600px) {
