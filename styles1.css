@@ -10,12 +10,12 @@ body {
 }
 			@media screen and (max-widht: 481px){
 				aside, artickle {
-					width: 30%;
+				flex-direction: column;
 	}
 }
 			@media (max-width: 600px) {
   				aside, artickle {
-    				flex-direction: column;
+				width: 100%
 }
 }
 			footer {
