@@ -15,7 +15,7 @@ body {
 }
 			@media (max-width: 600px) {
   				aside, artickle {
-    				width: 100%; 
+    				flex-direction: column;
 }
 }
 			footer {
