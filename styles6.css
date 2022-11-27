@@ -57,6 +57,9 @@ body {
   				margin-right: auto;
 				vertical-align: top;
 }
+			#kappale {
+				padding: 5px;
+}
 .h1 {
 	text-align: center;
 	font-size: 70px;
