@@ -1,0 +1,10 @@
+.row {
+        background: #000000;
+  	color: #ffffff;
+}
+.col-sm-4 {
+        border: 4px solid #ffffff;
+}
+.col-lg-6 {
+        border: 4px solid #ffffff;
+}
