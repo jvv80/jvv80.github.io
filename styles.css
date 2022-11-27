@@ -120,3 +120,24 @@ img {
 	vertical-align: top;
 	width: 350px;
 }
+nav ul { 
+	list-style-type: none;
+	text-align: center;
+}
+nav a {
+	text-decoration: none;
+	color: #000000;
+	padding-right: 25px;
+}
+#menu li { 
+	display: inline;
+}
+#menu a {
+	color: #ffffff;
+}
+#menu a:hover {
+	color:#FF0000;
+}
+a:hover {
+	color:#FF0000;
+}
