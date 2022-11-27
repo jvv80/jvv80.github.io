@@ -8,10 +8,6 @@ body {
 *			{
   				box-sizing: border-box;
 }
-			@media screen and (max-width: 481px){
-			#artickle {clear: left;}
-			#menu li {display: none;}
-}
 			@media (max-width: 600px) {
   				aside, #artickle {
 				width: 100%
@@ -31,7 +27,7 @@ body {
 }
 			#nav {
   				text-align: center;
-  				background: #000000;
+  				background: #1abc9c;
   				color: #ffffff;
   				font-size: 15px;
 				padding: 3px 1px 1px 1px;
