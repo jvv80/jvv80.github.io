@@ -19,11 +19,12 @@ body {
 				font-style: italic;
 }
 			header {
+  				padding: 5px;
+				margin-top: 5px;
   				text-align: center;
   				background: #1abc9c;
   				color: #ffffff;
-				font-size: 50px;
-				padding: 8px 9px 1px 9px;
+				font-size: 30px;
 }
 			#nav {
   				text-align: center;
