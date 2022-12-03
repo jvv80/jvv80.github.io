@@ -13,6 +13,9 @@ body				{
 .navbar-brand	{
 		  font-size: 40px;
 }
+#kuvaminusta {
+		width: 80px;
+}
 #navbarSupportedContent {
 			padding-left: 200px;
 }
