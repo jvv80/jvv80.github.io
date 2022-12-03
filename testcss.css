@@ -1,12 +1,12 @@
-{				
+body				{				
 				width: 90%;
 				margin-left: auto;
 				margin-right: auto;
 				background-image: url('androidstudio.jpg');
 }
-
 .navbar bg-light {
                   text-align: center;
+		navbar-brand-font-size: 25px;
 }
 .footer          {
 		font-size: 12px;
