@@ -11,12 +11,6 @@ body				{
 				#kuvaminusta {width: 50px;}
 				.navbar-brand {font-size: 10px;}
 }
-.navbar-brand	{
-		  font-size: 40px;
-}
-#kuvaminusta {
-		width: 110px;
-}
 #navbarSupportedContent {
 			padding-left: 200px;
 }
