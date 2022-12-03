@@ -7,8 +7,9 @@ body				{
 				background-image: url('androidstudio.jpg');
 }
 			@media screen (max-width: 481px) {
-  				#navbarSupportedContent {padding-left: 1px}
-				.navbar-brand {font-size: 30px}
+  				#navbarSupportedContent {padding-left: 1px;}
+				#kuvaminusta {width: 110px;}
+				.navbar-brand {font-size: 10px;}
 }
 .navbar-brand	{
 		  font-size: 40px;
@@ -18,9 +19,6 @@ body				{
 }
 #navbarSupportedContent {
 			padding-left: 200px;
-}
-.h1 {
-		  font-size: 90px;
 }
 .footer         {
 		font-size: 12px;
