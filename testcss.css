@@ -4,6 +4,9 @@ body				{
 				margin-right: auto;
 				background-image: url('androidstudio.jpg');
 }
+.navbar-brand	{
+		  font-size: 30px;
+}
 .h1 {
 		  font-size: 90px;
 }
