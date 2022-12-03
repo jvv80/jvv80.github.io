@@ -26,3 +26,6 @@ body				{
 .footer a 	{
 		color: #ffffff;
 }
+.footer a:hover {
+	color:#FF0000;
+}
