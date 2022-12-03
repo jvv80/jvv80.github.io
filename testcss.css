@@ -4,9 +4,9 @@ body				{
 				margin-right: auto;
 				background-image: url('androidstudio.jpg');
 }
-			@media only screen and (max-width: 100px) {
+			@media only screen and (max-width: 481px) {
   				#navbarSupportedContent {
-				padding-left: 1px;
+				padding-left: none;
 }
 }
 .navbar-brand	{
@@ -18,11 +18,11 @@ body				{
 .h1 {
 		  font-size: 90px;
 }
-.footer          {
+.footer         {
 		font-size: 12px;
 		color: #ffffff;
 		font-style: italic;
+		a {
+		color: #ffffff;
 }
-.footer a {
-	color: #ffffff;
 }
