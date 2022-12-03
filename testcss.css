@@ -1,3 +1,9 @@
 .navbar bg-light {
                   text-align: center;
 }
+}
+.footer          {
+			            font-size: 13px;
+			            color: #ffffff;
+			            font-style: italic;
+}
