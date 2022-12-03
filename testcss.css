@@ -9,6 +9,9 @@ body				{
 				padding-left: 1px;
 }
 }
+*			{
+  				box-sizing: border-box;
+}
 .navbar-brand	{
 		  font-size: 35px;
 }
