@@ -4,7 +4,7 @@ body				{
 				margin-right: auto;
 				background-image: url('androidstudio.jpg');
 }
-.navbar bg-light {
+.navbar-brand mb-0 h1 {
                   text-align: center;
 		--#{$prefix}navbar-brand-font-size: 60px;
 }
