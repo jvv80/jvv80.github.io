@@ -9,7 +9,7 @@ body				{
 			@media screen and (min-width: 481px) {
   				.collapse navbar-collapse {padding-left: 1px;}
 				#kuvaminusta {width: 50px;}
-				#navbarSupportedContent {font-size: 10px;}
+				.navbar-brand {font-size: 10px;}
 }
 .navbar-brand	{
 		  font-size: 40px;
