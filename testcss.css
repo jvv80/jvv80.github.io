@@ -6,7 +6,7 @@ body				{
 				margin-right: auto;
 				background-image: url('androidstudio.jpg');
 }
-			@media screen and (max-width: 481px) {
+			@media screen and (min-width: 481px) {
   				.collapse navbar-collapse {padding-left: 1px;}
 				.rounded-circle {width: 50px;}
 				.navbar-brand {font-size: 10px;}
