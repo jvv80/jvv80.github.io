@@ -7,8 +7,8 @@ body				{
 				background-image: url('androidstudio.jpg');
 }
 			@media screen (max-width: 481px) {
-  				#navbarSupportedContent {padding-left: 1px;}
-				#kuvaminusta {width: 110px;}
+  				.collapse navbar-collapse {padding-left: 1px;}
+				.rounded-circle {width: 50px;}
 				.navbar-brand {font-size: 10px;}
 }
 .navbar-brand	{
