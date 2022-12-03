@@ -22,8 +22,8 @@ body				{
 }
 			@media screen and (min-width: 482px) {
 				#navbarSupportedContent {padding-left: 1px;}
-				#kuvaminusta {width: 110px;}
-				.navbar-brand {font-size: 40px;}
+				#kuvaminusta {width: 70px;}
+				.navbar-brand {font-size: 30px;}
 }
 			@media screen and (min-width: 900px) {
 				#navbarSupportedContent {padding-left: 200px;}
