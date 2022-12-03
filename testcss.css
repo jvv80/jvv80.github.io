@@ -4,7 +4,7 @@ body				{
 				margin-right: auto;
 				background-image: url('androidstudio.jpg');
 }
-			@media (max-width: 400px) {
+			@media screen and (max-width: 481px) {
   				#navbarSupportedContent {
 				padding-left: 1px;
 }
