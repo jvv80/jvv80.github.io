@@ -4,9 +4,6 @@ body				{
 				margin-right: auto;
 				background-image: url('androidstudio.jpg');
 }
-				{box-sizing: border-box}
-				*, *:before, *:after {box-sizing: inherit}
-
 			@media screen (max-width: 481px) {
   				#navbarSupportedContent {padding-left: 1px}
 				.navbar-brand {font-size: 30px}
