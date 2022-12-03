@@ -4,6 +4,10 @@ body				{
 				margin-right: auto;
 				background-image: url('androidstudio.jpg');
 }
+			@media (max-width: 400px) {
+  				#navbarSupportedContent {
+				padding-left: 1px;
+}
 .navbar-brand	{
 		  font-size: 35px;
 }
