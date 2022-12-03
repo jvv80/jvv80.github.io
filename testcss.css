@@ -6,7 +6,7 @@ body				{
 }
 .navbar bg-light {
                   text-align: center;
-		--#{$prefix}navbar-brand-font-size: 25px;
+		--#{$prefix}navbar-brand-font-size: 60px;
 }
 .footer          {
 		font-size: 12px;
