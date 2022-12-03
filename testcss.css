@@ -7,6 +7,9 @@ body				{
 .navbar-brand	{
 		  font-size: 30px;
 }
+#navbarSupportedContent {
+	padding: 10px;
+}
 .navbar-nav mr-auto {
 		text-align: center;
 }
