@@ -10,6 +10,7 @@ html 				{
 }
 body				{				
 				width: 90%;
+				margin-up: auto;
 				margin-left: auto;
 				margin-right: auto;
 				background-image: url('androidstudio.jpg');
