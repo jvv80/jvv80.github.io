@@ -16,6 +16,10 @@ body				{
 				margin-right: auto;
 				background-image: url('androidstudio.jpg');
 }
+			.h3    {
+				font-size: 15px;
+				text-align: center;
+}
 			.aside {
 				float: left;
   				width: 18%;
