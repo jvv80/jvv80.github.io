@@ -30,7 +30,7 @@ body				{
 				.navbar-brand {font-size: 30px;}
 }
 			@media screen and (min-width: 900px) {
-				#navbarSupportedContent {padding-left: 200px;}
+				#navbarSupportedContent {padding-left: 170px;}
 				#kuvaminusta {width: 20%;}
 				.navbar-brand {font-size: 40px;}
 }
