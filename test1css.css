@@ -44,6 +44,9 @@ body				{
   				display: table;
   				clear: both;
 }	
+			.sidebarnav {
+				list-style-type: none;
+}
 			@media screen and (max-width: 481px) {
   				#navbarSupportedContent {padding-left: 1px;}
 				#kuvaminusta {width: 60px;}
