@@ -21,17 +21,17 @@ body				{
 }
 			@media screen and (max-width: 481px) {
   				#navbarSupportedContent {padding-left: 1px;}
-				#kuvaminusta {width: 50%;}
+				#kuvaminusta {width: 25%;}
 				.navbar-brand {font-size: 20px;}
 }
 			@media screen and (min-width: 482px) {
 				#navbarSupportedContent {padding-left: 1px;}
-				#kuvaminusta {width: 75%;}
+				#kuvaminusta {width: 37.5%;}
 				.navbar-brand {font-size: 30px;}
 }
 			@media screen and (min-width: 900px) {
 				#navbarSupportedContent {padding-left: 200px;}
-				#kuvaminusta {width: 100%;}
+				#kuvaminusta {width: 50%;}
 				.navbar-brand {font-size: 40px;}
 }
 .footer         {
