@@ -61,6 +61,8 @@ body				{
 				#navbarSupportedContent {padding-left: 170px;}
 				#kuvaminusta {width: 120px;}
 				.navbar-brand {font-size: 40px;}
+				.h3sidebar {font-size: 25px}
+				.h4sidebar {font-size: 20px}
 				.footer {padding: 5px;}
 }
 .footer         {
