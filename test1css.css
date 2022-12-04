@@ -51,7 +51,7 @@ body				{
 }
 			.sidebarlist {
 				list-style-type: none;
-				text-align: center;
+				text-align: left;
 }
 			@media screen and (max-width: 481px) {
   				#navbarSupportedContent {padding-left: 1px;}
