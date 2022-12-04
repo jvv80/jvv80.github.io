@@ -40,7 +40,7 @@ body				{
 				.navbar-brand {font-size: 20px;}
 				.footer {padding: 5px;}
 				.aside {widht: 30%;}
-				.artickle {width: 70%}
+				.artickle {width: 70%;}
 }
 			@media screen and (min-width: 482px) {
 				#navbarSupportedContent {padding-left: 1px;}
