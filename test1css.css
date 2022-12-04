@@ -45,12 +45,12 @@ body				{
   				display: table;
   				clear: both;
 }	
-			.sidebarnav {
-				list-style-type: none;
-}
 			.sidebarlink {
 				text-decoration: none;
 				color: #000000;
+}
+			.sidebarlist {
+				list-style-type: none;
 }
 			@media screen and (max-width: 481px) {
   				#navbarSupportedContent {padding-left: 1px;}
