@@ -39,8 +39,7 @@ body				{
 				#kuvaminusta {width: 60px;}
 				.navbar-brand {font-size: 20px;}
 				.footer {padding: 5px;}
-				.aside {widht: 30%;}
-				.artickle {width: 70%;}
+				.aside, .artickle {width: 100%}
 }
 			@media screen and (min-width: 482px) {
 				#navbarSupportedContent {padding-left: 1px;}
@@ -53,7 +52,6 @@ body				{
 				#kuvaminusta {width: 120px;}
 				.navbar-brand {font-size: 40px;}
 				.footer {padding: 5px;}
-				.aside, .artickle {width: 100%}
 }
 .footer         {
 		font-size: 12px;
