@@ -15,7 +15,7 @@ body				{
 				background-image: url('androidstudio.jpg');
 }
 #kuvaminusta 			{
-				width: 120px;
+				width: 60px;
 }
 			@media screen and (max-width: 481px) {
   				#navbarSupportedContent {padding-left: 1px;}
