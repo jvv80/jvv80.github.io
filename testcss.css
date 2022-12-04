@@ -16,22 +16,19 @@ body				{
 				margin-right: auto;
 				background-image: url('androidstudio.jpg');
 }
-#kuvaminusta 			{
-				width: 20px;
-}
 			@media screen and (max-width: 481px) {
   				#navbarSupportedContent {padding-left: 1px;}
-				#kuvaminusta {width: 13%;}
-				.navbar-brand {font-size: 23px;}
+				#kuvaminusta {width: 60px;}
+				.navbar-brand {font-size: 20px;}
 }
 			@media screen and (min-width: 482px) {
 				#navbarSupportedContent {padding-left: 1px;}
-				#kuvaminusta {width: 15%;}
+				#kuvaminusta {width: 90px;}
 				.navbar-brand {font-size: 30px;}
 }
 			@media screen and (min-width: 900px) {
 				#navbarSupportedContent {padding-left: 170px;}
-				#kuvaminusta {width: 20%;}
+				#kuvaminusta {width: 120px;}
 				.navbar-brand {font-size: 40px;}
 }
 .footer         {
