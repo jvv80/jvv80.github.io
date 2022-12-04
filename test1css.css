@@ -22,14 +22,14 @@ body				{
 				height: 500px;
  		 		background: #cccccc;
 }
-			#artickle {
+			.artickle {
 				float: left;
   				padding: 20px;
   				width: 82%;
 				height: 500px;
  				background-color: #f1f1f1;
 }
-			#section::after {
+			.section::after {
 				content: "";
   				display: table;
   				clear: both;
