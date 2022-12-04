@@ -53,6 +53,7 @@ body				{
 				#kuvaminusta {width: 120px;}
 				.navbar-brand {font-size: 40px;}
 				.footer {padding: 5px;}
+				.aside, .artickle {width: 100%}
 }
 .footer         {
 		font-size: 12px;
