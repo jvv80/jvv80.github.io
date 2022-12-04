@@ -48,7 +48,7 @@ body				{
 			.sidebarnav {
 				list-style-type: none;
 }
-			.sidebarnav, .sidebarlist {
+			.sidebarnav .sidebarlist {
 				text-decoration: none;
 				color: #000000;
 }
