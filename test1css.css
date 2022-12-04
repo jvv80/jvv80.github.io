@@ -62,7 +62,7 @@ body				{
 				.footer {padding: 5px;}
 				.aside, .artickle {width: 100%;}
 				.aside, .artickle {height: auto;}
-				.sidebarlistitem {padding-left: none;}
+				.sidebarlistitem {padding-left: none; display: inline;}
 }
 			@media screen and (min-width: 482px) {
 				#navbarSupportedContent {padding-left: 1px;}
