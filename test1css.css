@@ -65,7 +65,7 @@ body				{
 				.footer {padding: 5px;}
 				.aside, .artickle {width: 100%; height: auto;}
 				.sidebarlistitem {padding-left: 1px; display: inline;}
-				.sidebarlistitem2 {padding-left: 30px; display: inline;}
+				.sidebarlistitem2 {padding-left: 35px; display: inline;}
 }
 			@media only screen and (min-width: 600px) {
 				#navbarSupportedContent {padding-left: 170px;}
