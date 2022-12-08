@@ -55,7 +55,7 @@ body				{
 			.sidebarlistitem {
 				padding-left: 35px;
 }
-			@media only screen and (max-width: 400px) {
+			@media only screen and (max-width: 600px) {
   				#navbarSupportedContent {padding-left: 1px;}
 				#kuvaminusta {width: 60px;}
 				.navbar-brand {font-size: 20px;}
@@ -63,7 +63,7 @@ body				{
 				.aside, .artickle {width: 100%; height: auto;}
 				.sidebarlistitem {padding-left: 1px; padding-right: 15px; display: inline;}
 }
-			@media only screen and (min-width: 400px) {
+			@media only screen and (min-width: 600px) {
 				#navbarSupportedContent {padding-left: 170px;}
 				#kuvaminusta {width: 120px;}
 				.navbar-brand {padding-left: 35px;}
