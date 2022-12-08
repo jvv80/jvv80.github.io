@@ -58,7 +58,7 @@ body				{
 			.sidebarlistitem {
 				padding-left: 35px;
 }
-			@media only screen and (max-width: 481px) {
+			@media only screen and (max-width: 700px) {
   				#navbarSupportedContent {padding-left: 1px;}
 				#kuvaminusta {width: 60px;}
 				.navbar-brand {font-size: 20px;}
@@ -66,19 +66,10 @@ body				{
 				.aside, .artickle {width: 100%; height: auto;}
 				.sidebarlistitem {padding-left: 1px; display: inline;}
 }
-			@media only screen and (min-widht: 481px) and (max-width: 700px) {
-				#navbarSupportedContent {padding-left: 1px;}
-				#kuvaminusta {width: 60px;}
-				.navbar-brand {font-size: 30px;}
-				.h3sidebar {font-size: 20px;}
-				.h4sidebar {font-size: 17px;}
-				.footer {padding: 5px;}
-				.sidebarlistitem {padding-left: 1px;}
-}
 			@media only screen and (min-width: 700px) {
 				#navbarSupportedContent {padding-left: 170px;}
 				#kuvaminusta {width: 120px;}
-				#kuvaminusta {padding-left: 5px;}
+				#kuvaminusta {padding-left: 20px;}
 				.navbar-brand {font-size: 40px;}
 				.h3sidebar {font-size: 25px}
 				.h4sidebar {font-size: 20px}
