@@ -63,7 +63,7 @@ body				{
 				.aside, .artickle {width: 100%; height: auto;}
 				.sidebarlistitem {padding-left: 1px; display: inline;}
 }
-			@media only screen and (min-widht: 482px) {
+			@media only screen and (min-widht: 481px) and (max-width: 1499px) {
 				#navbarSupportedContent {padding-left: 1px;}
 				#kuvaminusta {width: 90px;}
 				.navbar-brand {font-size: 30px;}
