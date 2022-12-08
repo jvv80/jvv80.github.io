@@ -55,13 +55,16 @@ body				{
 			.sidebarlistitem {
 				padding-left: 35px;
 }
+			.sidebarlistitem2 {
+				padding-left: 35px;
+}
 			@media only screen and (max-width: 600px) {
   				#navbarSupportedContent {padding-left: 1px;}
 				#kuvaminusta {width: 60px;}
 				.navbar-brand {font-size: 20px;}
 				.footer {padding: 5px;}
 				.aside, .artickle {width: 100%; height: auto;}
-				.sidebarlistitem {padding-left: 1px; padding-right: 10px; display: inline;}
+				.sidebarlistitem {padding-left: 1px; display: inline;}
 				.sidebarlistitem2 {padding-left: 30px; display: inline;}
 }
 			@media only screen and (min-width: 600px) {
