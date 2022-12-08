@@ -61,6 +61,14 @@ body				{
   				background: #125688;
   				color: white;
 }
+			.footer         {
+				font-size: 15px;
+				color: #ffffff;
+				font-style: italic;
+}
+			.footer a 	{color: #ffffff;}
+			.footer a:hover {color:#FF0000;}
+
 			.section::after {
 				content: "";
   				display: table;
@@ -83,7 +91,7 @@ body				{
   				#navbarSupportedContent {padding-left: 1px;}
 				#kuvaminusta {width: 60px;}
 				.navbar-brand {font-size: 20px;}
-				.footer {padding: 5px;}
+				.footer {padding: 5px; font-size: 10px;}
 				.artickle, .aside {width: 100%; height: auto;}
 				.sidebarlistitem {padding-left: 1px; display: inline;}
 				.sidebarlistitem2 {padding-left: 45px; display: inline;}
@@ -97,10 +105,3 @@ body				{
 				.h4sidebar {font-size: 20px}
 				.footer {padding: 5px;}
 }
-.footer         {
-		font-size: 15px;
-		color: #ffffff;
-		font-style: italic;
-}
-.footer a 	{color: #ffffff;}
-.footer a:hover {color:#FF0000;}
