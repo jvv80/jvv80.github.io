@@ -63,7 +63,7 @@ body				{
 				#kuvaminusta {width: 60px;}
 				.navbar-brand {font-size: 20px;}
 				.footer {padding: 5px;}
-				.aside, .artickle {width: 100%; height: auto;}
+				.artickle, .aside {width: 100%; height: auto;}
 				.sidebarlistitem {padding-left: 1px; display: inline;}
 				.sidebarlistitem2 {padding-left: 35px; display: inline;}
 }
