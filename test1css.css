@@ -67,7 +67,7 @@ body				{
 				padding: 5px;
 }
 			.footer a 	{color: #ffffff;}
-			.footer a:hover {color:#FF0000;}
+			.footer a:hover {color: #FF0000;}
 
 			.section::after {
 				content: "";
@@ -92,7 +92,7 @@ body				{
 				#kuvaminusta {width: 60px;}
 				.navbar-brand {font-size: 20px;}
 				.artickle, .aside {width: 100%; height: auto;}
-				.sidebarlink {color: #ffffff;}
+				.sidebarlink {color: #FF0000;}
 				.sidebarlistitem {padding-left: 1px; display: inline;}
 				.sidebarlistitem2 {padding-left: 45px; display: inline;}
 				.footer {padding-left: 1px; paddin-right: 1px; padding-top: 7px; padding-bottom: 7px;}
