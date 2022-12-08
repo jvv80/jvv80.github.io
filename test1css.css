@@ -40,9 +40,6 @@ body				{
 				height: 500px;
  				background-color: #f1f1f1;
 }
-			.navbar-brand {
-				padding-left: 15px;
-}
 			.section::after {
 				content: "";
   				display: table;
@@ -69,6 +66,7 @@ body				{
 			@media only screen and (min-width: 700px) {
 				#navbarSupportedContent {padding-left: 170px;}
 				#kuvaminusta {width: 120px;}
+				.navbar-brand {padding-left: 20px;}
 				.navbar-brand {font-size: 40px;}
 				.h3sidebar {font-size: 25px}
 				.h4sidebar {font-size: 20px}
