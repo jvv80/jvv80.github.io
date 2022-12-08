@@ -74,7 +74,7 @@ body				{
 }
 			@media only screen and (min-width: 900px) {
 				#navbarSupportedContent {padding-left: 170px;}
-				#kuvaminusta {width: 120px;}
+				#kuvaminusta {width: 150px;}
 				.navbar-brand {font-size: 40px;}
 				.h3sidebar {font-size: 25px}
 				.h4sidebar {font-size: 20px}
