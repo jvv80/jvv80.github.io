@@ -92,9 +92,10 @@ body				{
 				#kuvaminusta {width: 60px;}
 				.navbar-brand {font-size: 20px;}
 				.artickle, .aside {width: 100%; height: auto;}
+				.sidebarlink {color: #ffffff;}
 				.sidebarlistitem {padding-left: 1px; display: inline;}
 				.sidebarlistitem2 {padding-left: 45px; display: inline;}
-				.footer {padding-left: 1px; paddin-right: 1px; padding-top: 5px; padding-bottom: 5px;}
+				.footer {padding-left: 1px; paddin-right: 1px; padding-top: 7px; padding-bottom: 7px;}
 }
 			@media only screen and (min-width: 600px) {
 				#navbarSupportedContent {padding-left: 170px;}
