@@ -55,7 +55,7 @@ body				{
 			.sidebarlistitem {
 				padding-left: 35px;
 }
-			@media screen and (max-width: 481px) {
+			@media only screen and (max-width: 481px) {
   				#navbarSupportedContent {padding-left: 1px;}
 				#kuvaminusta {width: 60px;}
 				.navbar-brand {font-size: 20px;}
@@ -63,7 +63,7 @@ body				{
 				.aside, .artickle {width: 100%; height: auto;}
 				.sidebarlistitem {padding-left: 1px; display: inline;}
 }
-			@media screen and (min-widht: 482px) {
+			@media only screen and (min-widht: 482px) {
 				#navbarSupportedContent {padding-left: 1px;}
 				#kuvaminusta {width: 90px;}
 				.navbar-brand {font-size: 30px;}
@@ -72,7 +72,7 @@ body				{
 				.footer {padding: 5px;}
 				.sidebarlistitem {padding-left: 1px;}
 }
-			@media screen and (min-width: 1500px) {
+			@media only screen and (min-width: 1500px) {
 				#navbarSupportedContent {padding-left: 170px;}
 				#kuvaminusta {width: 120px;}
 				.navbar-brand {font-size: 40px;}
