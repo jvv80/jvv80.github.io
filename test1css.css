@@ -55,15 +55,15 @@ body				{
 			.sidebarlistitem {
 				padding-left: 35px;
 }
-			@media only screen and (max-width: 500px) {
+			@media only screen and (max-width: 400px) {
   				#navbarSupportedContent {padding-left: 1px;}
 				#kuvaminusta {width: 60px;}
 				.navbar-brand {font-size: 20px;}
 				.footer {padding: 5px;}
 				.aside, .artickle {width: 100%; height: auto;}
-				.sidebarlistitem {padding-left: 1px; padding-right: 10px; display: inline;}
+				.sidebarlistitem {padding-left: 1px; padding-right: 15px; display: inline;}
 }
-			@media only screen and (min-width: 500px) {
+			@media only screen and (min-width: 400px) {
 				#navbarSupportedContent {padding-left: 170px;}
 				#kuvaminusta {width: 120px;}
 				.navbar-brand {padding-left: 35px;}
