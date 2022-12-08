@@ -94,6 +94,7 @@ body				{
 				.artickle, .aside {width: 100%; height: auto;}
 				.sidebarlistitem {padding-left: 1px; display: inline;}
 				.sidebarlistitem2 {padding-left: 45px; display: inline;}
+				.footer {padding-left: 1px; paddin-right: 1px; padding-top: 5px; padding-bottom: 5px;}
 }
 			@media only screen and (min-width: 600px) {
 				#navbarSupportedContent {padding-left: 170px;}
