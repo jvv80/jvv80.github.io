@@ -79,7 +79,7 @@ body				{
 			.footer a:hover {color: #FF0000; opacity: 0.7;}
 
 			.navbar {
-				border-radius: 20px;
+				
 }
 			.section::after {
 				content: "";
