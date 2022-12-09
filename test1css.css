@@ -83,10 +83,12 @@ body				{
   				display: table;
   				clear: both;
 }	
-			.sidebarlink a {
+			.sidebarlink {
 				text-decoration: none;
 				color: #000000;
 }
+			.sidebarlink a:visited {color:#003366;}
+
 			.sidebarlist {
 				list-style-type: none;
 }
