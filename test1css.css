@@ -91,10 +91,10 @@ body				{
 				list-style-type: none;
 }
 			.sidebarlistitem {
-				padding-left: 10%;
+				padding-left: 12%;
 }
 			.sidebarlistitem2 {
-				padding-left: 10%;
+				padding-left: 12%;
 }
 			@media only screen and (max-width: 600px) {
   				#navbarSupportedContent {padding-left: 1px;}
@@ -109,7 +109,7 @@ body				{
 			@media only screen and (min-width: 600px) {
 				#navbarSupportedContent {padding-left: 20%;}
 				#kuvaminusta {width: 120px;}
-				.navbar-brand {padding-left: 2%;}
+				.navbar-brand {padding-left: 1.8%;}
 				.navbar-brand {font-size: 40px;}
 				.h3sidebar {font-size: 25px}
 				.h4sidebar {font-size: 20px}
