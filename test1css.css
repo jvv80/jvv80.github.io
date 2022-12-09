@@ -86,7 +86,7 @@ body				{
   				display: table;
   				clear: both;
 }	
-			.sidebarlink {color: #000000;}
+			.sidebarlink {color: #000000; text-decoration: none;}
 			.sidebarlink a {color: #ffffff; text-decoration: none;}
 
 			.sidebarlist {
