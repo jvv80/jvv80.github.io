@@ -91,10 +91,10 @@ body				{
 				list-style-type: none;
 }
 			.sidebarlistitem {
-				padding-left: 12%;
+				padding-left: 15%;
 }
 			.sidebarlistitem2 {
-				padding-left: 12%;
+				padding-left: 15%;
 }
 			@media only screen and (max-width: 600px) {
   				#navbarSupportedContent {padding-left: 1px;}
