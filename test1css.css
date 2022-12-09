@@ -41,6 +41,7 @@ body				{
 				height: 500px;
  				background-color: #f1f1f1;
 				margin-top: 5px;
+				box-sizing: border-box;
 }
 			.fa {
   				padding: 7px;
