@@ -82,7 +82,7 @@ body				{
   				display: table;
   				clear: both;
 }	
-			.sidebarlink {
+			.sidebarlink a {
 				text-decoration: none;
 				color: #000000;
 }
