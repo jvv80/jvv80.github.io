@@ -109,9 +109,9 @@ body				{
 				.footer {padding-left: 1px; padding-right: 1px; padding-top: 7px; padding-bottom: 7px;}
 }
 			@media only screen and (min-width: 600px) {
-				#navbarSupportedContent {padding-left: 170px;}
+				#navbarSupportedContent {padding-left: 190px;}
 				#kuvaminusta {width: 120px;}
-				.navbar-brand {padding-left: 30px;}
+				.navbar-brand {padding-left: 25px;}
 				.navbar-brand {font-size: 40px;}
 				.h3sidebar {font-size: 25px}
 				.h4sidebar {font-size: 20px}
