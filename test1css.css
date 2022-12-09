@@ -37,11 +37,10 @@ body				{
 			.artickle {
 				float: left;
   				padding: 20px;
-  				width: 79.4%;
+  				width: 79.1%;
 				height: 500px;
  				background-color: #f1f1f1;
 				margin-top: 10px;
-				box-sizing: border-box;
 }
 			.fa {
   				padding: 7px;
