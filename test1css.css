@@ -36,7 +36,7 @@ body				{
 				padding-top: 20px;
 				margin-top: 1%;
 				margin-right: 1%;
-				border-radius: 15px;
+				border-radius: 20px;
 
 }
 			.artickle {
@@ -46,7 +46,7 @@ body				{
 				height: 500px;
  				background-color: #f1f1f1;
 				margin-top: 1%;
-				border-radius: 15px;
+				border-radius: 25px;
 }
 			.fa {
   				padding: 7px;
@@ -79,15 +79,15 @@ body				{
 			.footer a:hover {color: #FF0000; opacity: 0.7;}
 
 			.navbar {
-				border-radius: 15px;
+				border-radius: 20px;
 }
 			.section::after {
 				content: "";
   				display: table;
   				clear: both;
 }	
-			.sidebarlink {color: #000000; text-decoration: none;}
-			.sidebarlink a {color: #ffffff; text-decoration: none;}
+			.sidebarlink {color: #000000;}
+			
 
 			.sidebarlist {
 				list-style-type: none;
