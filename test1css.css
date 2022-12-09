@@ -37,7 +37,7 @@ body				{
 			.artickle {
 				float: left;
   				padding: 20px;
-  				width: 79%;
+  				width: auto;
 				height: 500px;
  				background-color: #f1f1f1;
 				margin-top: 10px;
