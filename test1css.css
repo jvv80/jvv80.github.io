@@ -105,8 +105,8 @@ body				{
 				.artickle, .aside {width: 100%; height: auto; margin-top: 2%;}
 				.h4sidebar {visibility: hidden; font-size: 1px; padding-top: 1px;}
 				.sidebarlink {color: #FF0000;}
-				.sidebarlistitem {padding-left: 1%;}
-				.sidebarlistitem2 {padding-left: 1%;}
+				.sidebarlistitem {padding-left: 3%;}
+				.sidebarlistitem2 {padding-left: 3%;}
 				.sidebarnav {float: left; width: 50%; height: auto; padding: 1%; border-bottom-left-radius: 20px;}
 				.sidebarnav1 {float: left; width: 50%; height: auto; padding: 1%; border-bottom-right-radius: 20px;}
 				.footer {padding-left: 1px; padding-right: 1px; padding-top: 7px; padding-bottom: 7px;}
