@@ -106,7 +106,7 @@ body				{
 				.sidebarlink {color: #FF0000;}
 				.sidebarlistitem {padding-left: 1%;}
 				.sidebarlistitem2 {padding-left: 1%;}
-				.sidenavbar, .sidenavbar1 {width: 40%; height: auto;}
+				.sidenavbar, .sidenavbar1 {width: 100%; height: auto;}
 				.aside::after {content: ""; display: table; clear: both;}
 				.footer {padding-left: 1px; padding-right: 1px; padding-top: 7px; padding-bottom: 7px;}
 				.h4sidebar {text-align: left; display: none;}
