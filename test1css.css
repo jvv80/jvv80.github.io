@@ -107,8 +107,8 @@ body				{
 				.sidebarlink {color: #FF0000;}
 				.sidebarlistitem {}
 				.sidebarlistitem2 {}
-				.sidebarnav {float: left; width: 50%; height: auto; padding: 1%; border-bottom-left-radius: 20px; text-align: center;}
-				.sidebarnav1 {float: left; width: 50%; height: auto; padding: 1%; border-bottom-right-radius: 20px; text-align: center;}
+				.sidebarnav {float: left; width: 50%; height: auto; padding: 1%; border-bottom-left-radius: 20px;}
+				.sidebarnav1 {float: left; width: 50%; height: auto; padding: 1%; border-bottom-right-radius: 20px;}
 				.footer {padding-left: 1px; padding-right: 1px; padding-top: 7px; padding-bottom: 7px;}
 				.aside::after {content: ""; display: table; clear: both;}
 }
