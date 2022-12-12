@@ -106,8 +106,8 @@ body				{
 				.sidebarlink {color: #FF0000;}
 				.sidebarlistitem {padding-left: 1%;}
 				.sidebarlistitem2 {padding-left: 1%;}
-				.sidenavbar {float: left; width: 50%; height: auto;}
-				.sidenavbar1 {float: left; width: 50%; height: auto;}
+				.sidenavbar {float: left; width: 50%; height: auto; backround-color: white;}
+				.sidenavbar1 {float: right; width: 50%; height: auto;}
 				.aside::after {content: ""; display: table; clear: both;}
 				.footer {padding-left: 1px; padding-right: 1px; padding-top: 7px; padding-bottom: 7px;}
 				.h4sidebar {visibility: hidden;}
