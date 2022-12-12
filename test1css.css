@@ -103,9 +103,9 @@ body				{
 				.artickle, .aside {width: 100%; height: auto;}
 				.sidebarlink {color: #FF0000;}
 				.sidebarlistitem {padding-left: 1%; display: inline;}
-				.sidebarlistitem2 {padding-left: 15%; display: inline;}
-				.sidenavbar {float: left; width: 40%}
-				.sidenavbar1 {float: left; width: 40%}
+				.sidebarlistitem2 {padding-left: 1%; display: inline;}
+				.sidenavbar {float: left; width: 40%; height: auto;}
+				.sidenavbar1 {float: left; width: 40%; height: auto; }
 				.footer {padding-left: 1px; padding-right: 1px; padding-top: 7px; padding-bottom: 7px;}
 }
 			@media only screen and (min-width: 600px) {
