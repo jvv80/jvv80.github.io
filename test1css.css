@@ -19,11 +19,11 @@ body				{
 				font-size: 25px;
 				text-align: center;
 }
-			.h3sidebar, .h3sidebar1 {
+			.h3sidebar {
 				font-size: 25px;
 				text-align: center;
 }
-			.h4sidebar {
+			.h4sidebar, .h4sidebar1 {
 				font-size: 20px;
 				text-align: center;
 				padding-top: 5px;
