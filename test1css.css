@@ -95,12 +95,11 @@ body				{
 			.sidebarlistitem, .sidebarlistitem2 {
 				padding-left: 20%;
 }
+			.sidebarlistitem3 {
+				padding-right: 20px;
+}
 			.sidebarnav_nav {
 				text-align: center;
-}
-			.sidebarnav2 {
-				text-align: center;
-				padding-left: 10px;
 }
 			@media only screen and (max-width: 600px) {
   				#navbarSupportedContent {padding-left: 1px;}
