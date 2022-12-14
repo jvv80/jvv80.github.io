@@ -92,10 +92,7 @@ body				{
 			.sidebarlist {
 				list-style-type: none;
 }
-			.sidebarlistitem {
-				padding-left: 20%;
-}
-			.sidebarlistitem2 {
+			.sidebarlistitem, .sidebarlistitem2, .sidebarlistitem3 {
 				padding-left: 20%;
 }
 			@media only screen and (max-width: 600px) {
