@@ -92,11 +92,11 @@ body				{
 			.sidebarlist {
 				list-style-type: none;
 }
-			.sidebarlistitem, .sidebarlistitem2 {
-				padding-right: 20%;
-}
-			.sidebarlistitem3 {
+			.sidebarlistitem {
 				padding-right: 40px;
+}
+			.sidebarlistitem1, .sidebarlistitem2 {
+				padding-right: 20%;
 }
 			.sidebarnav_nav {
 				text-align: center;
