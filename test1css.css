@@ -95,7 +95,7 @@ body				{
 			.sidebarlistitem, .sidebarlistitem2 {
 				padding-left: 20%;
 }
-			.sidebarlistitem3 {
+			.sidebarnav {
 				text-align: center;
 }
 			@media only screen and (max-width: 600px) {
