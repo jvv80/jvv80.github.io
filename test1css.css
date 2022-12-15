@@ -119,14 +119,14 @@ body				{
   				#navbarSupportedContent {padding-left: 1px;}
 				#kuvaminusta {width: 60px;}
 				#row1 {margin-top: 2%;}
-				#col1 {margin: 1% 4% 1% 4%;}
+				#col1 {margin: 1% 6% 1% 6%;}
 				.navbar-brand {font-size: 20px;}
 				.artickle, .aside {width: 100%; height: auto; margin-top: 2%; padding-bottom: 0%; margin-bottom: 0%; border-radius: 20px;}
 				.h4sidebar {visibility: hidden; font-size: 1px; padding-top: 1px;}
 				.sidebarlink {color: #FF0000;}
 				.sidebarlistitem {text-align: center; padding-right: 40px;}
 				.sidebarlistitem1 {text-align: left; padding-right: 1%;}
-				.sidebarlistitem2 {text-align: left; padding-right: 4%;}
+				.sidebarlistitem2 {text-align: left; padding-right: 6%;}
 				.sidebarnav {float: left; width: 50%; height: auto; padding: 1%;}
 				.sidebarnav1 {float: left; width: 50%; height: auto; padding: 1%;}
 				.footer {padding-left: 1px; padding-right: 1px; padding-top: 7px; padding-bottom: 7px;}
