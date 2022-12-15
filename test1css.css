@@ -94,11 +94,13 @@ body				{
 			#col1 {
 				margin: 10px;
 }
+			.section {
+				overflow: hidden;
+}	
 			.section::after {
 				content: "";
   				display: table;
   				clear: both;
-				overflow: hidden;
 }
 			.sidebarlink {color: #000000;}
 			
