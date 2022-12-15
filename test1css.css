@@ -92,11 +92,6 @@ body				{
 			#col1 {
 				margin: 10px;
 }
-			.section {
-				overflow: hidden;
-				border-bottom-left-radius: 20px;
-				border-bottom-right-radius: 20px;
-}
 			.section::after {
 				content: "";
   				display: table;
