@@ -96,6 +96,7 @@ body				{
 }
 			.section {
 				overflow: hidden;
+				border-radius: 20px;
 }	
 			.section::after {
 				content: "";
