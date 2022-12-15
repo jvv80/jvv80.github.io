@@ -131,7 +131,7 @@ body				{
 				.sidebarnav {float: left; width: 50%; height: auto; padding: 1%; border-bottom-left-radius: 20px;}
 				.sidebarnav1 {float: left; width: 50%; height: auto; padding: 1%; border-bottom-right-radius: 20px;}
 				.footer {padding-left: 1px; padding-right: 1px; padding-top: 7px; padding-bottom: 7px;}
-				.aside::after {content: ""; display: table; clear: both; overflow: hidden;}
+				.aside::after {content: ""; display: table; clear: both; overflow: hidden; margin: 2%}
 }
 			@media only screen and (min-width: 600px) {
 				#navbarSupportedContent {padding-left: 20%;}
