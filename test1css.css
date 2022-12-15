@@ -98,12 +98,8 @@ body				{
 				content: "";
   				display: table;
   				clear: both;
-}
-			.section {
 				overflow: hidden;
-				border-bottom-left-radius: 20px;
-				border-bottom-right-radius: 20px;
-}	
+}
 			.sidebarlink {color: #000000;}
 			
 			.sidebarlist {
