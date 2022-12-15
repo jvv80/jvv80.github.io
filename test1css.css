@@ -92,6 +92,9 @@ body				{
 			#col1 {
 				margin: 10px;
 }
+			#col2 {
+				margin: 10px 10px 20px 10px;
+}
 			.section {
 				overflow: hidden;
 }	
