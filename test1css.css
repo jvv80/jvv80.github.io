@@ -15,6 +15,9 @@ body				{
 				margin-right: auto;
 				background-image: url('androidstudio.jpg');
 }
+			#row {
+				margin-top: 10px;
+}
 			.h3 	{
 				font-size: 25px;
 				text-align: center;
