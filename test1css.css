@@ -40,7 +40,6 @@ body				{
 				margin-right: 1%;
 				padding-bottom: 100%;
     				margin-bottom: -100%;
-				border-radius: 20px;
 }
 			.artickle {
 				float: left;
@@ -50,7 +49,6 @@ body				{
 				margin-top: 1%;
 				padding-bottom: 100%;
     				margin-bottom: -100%;
-				border-radius: 20px;
 }
 			.fa {
   				padding: 7px;
@@ -93,7 +91,7 @@ body				{
 				margin: 10px;
 }
 			#col2 {
-				margin: 20px 10px 10px 10px;
+				margin: 10px 10px 25px 10px;
 }
 			.section {
 				overflow: hidden;
