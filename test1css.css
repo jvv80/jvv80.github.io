@@ -88,6 +88,9 @@ body				{
 			#row1 {
 				margin-top: 15px;
 }
+			#col1 {
+				margin: 10px;
+}
 			.section::after {
 				content: "";
   				display: table;
