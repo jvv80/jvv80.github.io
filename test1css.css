@@ -31,15 +31,6 @@ body				{
 			.h5 {
 				text-align: center;
 }
-			.artickle {
-				float: left;
-  				padding: 20px;
-  				width: 79%;
-				height: 700px;
- 				background-color: #f1f1f1;
-				margin-top: 1%;
-				border-radius: 20px;
-}
 			.aside {
 				float: left;
   				width: 20%;
@@ -48,6 +39,18 @@ body				{
 				margin-top: 1%;
 				margin-right: 1%;
 				border-radius: 20px;
+				padding-bottom: 100%;
+    				margin-bottom: -100%;
+}
+			.artickle {
+				float: left;
+  				padding: 20px;
+  				width: 79%;
+ 				background-color: #f1f1f1;
+				margin-top: 1%;
+				border-radius: 20px;
+				padding-bottom: 100%;
+    				margin-bottom: -100%;
 }
 			.fa {
   				padding: 7px;
@@ -89,6 +92,9 @@ body				{
 }
 			#col1 {
 				margin: 10px;
+}
+			.section {
+				overflow: hidden;
 }
 			.section::after {
 				content: "";
