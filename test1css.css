@@ -125,8 +125,8 @@ body				{
 				.h4sidebar {visibility: hidden; font-size: 1px; padding-top: 1px;}
 				.sidebarlink {color: #FF0000;}
 				.sidebarlistitem {text-align: center; padding-right: 40px;}
-				.sidebarlistitem1 {padding-right: 15%;}
-				.sidebarlistitem2 {padding-right: 25%;}
+				.sidebarlistitem1 {text-align: left;}
+				.sidebarlistitem2 {text-align: left;}
 				.sidebarnav {float: left; width: 50%; height: auto; padding: 1%;}
 				.sidebarnav1 {float: left; width: 50%; height: auto; padding: 1%;}
 				.footer {padding-left: 1px; padding-right: 1px; padding-top: 7px; padding-bottom: 7px;}
