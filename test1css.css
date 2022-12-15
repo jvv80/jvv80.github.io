@@ -85,7 +85,6 @@ body				{
 			.navbar {
 				border-bottom-left-radius: 20px;
 				border-bottom-right-radius: 20px;
-				
 }
 			#row1 {
 				margin-top: 15px;
@@ -95,6 +94,8 @@ body				{
 }
 			.section {
 				overflow: hidden;
+				border-bottom-left-radius: 20px;
+				border-bottom-right-radius: 20px;
 }
 			.section::after {
 				content: "";
