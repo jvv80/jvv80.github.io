@@ -85,8 +85,8 @@ body				{
 				border-bottom-right-radius: 20px;
 				
 }
-			.row1 {
-				
+			#row1 {
+				margin-top: 15px;
 }
 			.section::after {
 				content: "";
