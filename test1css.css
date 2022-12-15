@@ -41,6 +41,7 @@ body				{
 				padding-bottom: 100%;
     				margin-bottom: -100%;
 				border-radius: 20px;
+				border-bottom-right-radius: 20px;
 }
 			.artickle {
 				float: left;
@@ -51,6 +52,7 @@ body				{
 				padding-bottom: 100%;
     				margin-bottom: -100%;
 				border-radius: 20px;
+				border-bottom-left-radius: 20px;
 }
 			.fa {
   				padding: 7px;
