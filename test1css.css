@@ -75,7 +75,7 @@ body				{
 				font-size: 100%;
 				color: #ffffff;
 				font-style: italic;
-				padding: 1.5%;
+				padding: 1%;
 }
 			.footer a 	{color: #ffffff; text-decoration: none;}
 			.footer a:hover {color: #FF0000; opacity: 0.7;}
@@ -116,7 +116,7 @@ body				{
 				text-align: center;
 }
 			@media only screen and (max-width: 600px) {
-  				#navbarSupportedContent {padding-left: 1px;}
+  				#navbarSupportedContent {padding-left: 2%;}
 				#kuvaminusta {width: 60px;}
 				#row1 {margin-top: 2%;}
 				#col1, #col2 {margin: 2% 8% 1% 8%;}
