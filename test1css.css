@@ -115,6 +115,9 @@ body				{
 			.sidebarlistitem1, .sidebarlistitem2 {
 				padding-right: 20%;
 }
+			.sidebarlistitem3 {
+				text-align: left;
+}
 			.sidebarnav_nav {
 				text-align: center;
 }
