@@ -32,7 +32,8 @@ body				{
 				padding-top: 3%;
 }
 			.h4sidebar2 {
-				padding-left: 3%;
+				font-size: 120%;
+				padding-left: 5%;
 }
 			.h5 {
 				text-align: center;
@@ -120,7 +121,7 @@ body				{
 }
 			.sidebarlistitem3 {
 				text-align: left;
-				padding-left: -3%;
+				padding-right: 10%;
 				font-size: 90%;
 }
 			.sidebarnav_nav {
