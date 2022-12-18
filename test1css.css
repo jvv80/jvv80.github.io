@@ -129,7 +129,7 @@ body				{
 				.sidebarlistitem2 {text-align: left;}
 				.sidebarnav {float: left; width: 50%; height: auto; padding: 1%;}
 				.sidebarnav1 {float: left; width: 50%; height: auto; padding: 1%;}
-				.footer {padding-left: 1.5%; padding-right: 1.5%; padding-top: 7%; padding-bottom: 1%;}
+				.footer {padding-left: 2%; padding-right: 2%; padding-top: 4%;}
 				.aside::after {content: ""; display: table; clear: both;}
 }
 			@media only screen and (min-width: 600px) {
