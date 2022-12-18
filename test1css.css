@@ -114,7 +114,6 @@ body				{
 				list-style-type: none;
 }
 			.sidebarlist2 {
-				paddin-right: 10%;
 }
 			.sidebarlistitem {
 				padding-right: 17%;
@@ -125,6 +124,7 @@ body				{
 			.sidebarlistitem3 {
 				text-align: left;
 				font-size: 90%;
+				padding-right: 10%;
 }
 			.sidebarnav_nav {
 				text-align: center;
