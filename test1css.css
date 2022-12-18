@@ -121,7 +121,8 @@ body				{
 }
 			.sidebarlistitem3 {
 				text-align: left;
-				padding-right: 10%;
+				padding-left: -10;
+				padding-right: 5%;
 				font-size: 90%;
 }
 			.sidebarnav_nav {
