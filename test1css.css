@@ -130,7 +130,7 @@ body				{
 			.sidebarnav_nav {
 				text-align: center;
 }
-			@media only screen and (max-width: 900px) {
+			@media only screen and (max-width: 1000px) {
   				#navbarSupportedContent {padding-left: 2%;}
 				#kuvaminusta {width: 60px;}
 				#row1 {margin-top: 2%;}
@@ -148,7 +148,7 @@ body				{
 				.footer {padding-left: 2%; padding-right: 2%; padding-top: 4%;}
 				.aside::after {content: ""; display: table; clear: both;}
 }
-			@media only screen and (min-width: 900px) {
+			@media only screen and (min-width: 1000px) {
 				#navbarSupportedContent {padding-left: 25%;}
 				#kuvaminusta {width: 120px;}
 				.artickle, .aside {border-radius: 20px;}
