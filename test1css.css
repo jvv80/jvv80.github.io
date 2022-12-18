@@ -15,6 +15,9 @@ body				{
 				margin-right: auto;
 				background-image: url('androidstudio.jpg');
 }
+			#esittely{
+				padding: 2%;
+}
 			.h3 	{
 				font-size: 150%;
 				text-align: center;
