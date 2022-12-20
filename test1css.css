@@ -135,7 +135,7 @@ body				{
   				#navbarSupportedContent {padding-left: 2%;}
 				#kuvaminusta {width: 60px;}
 				#row1 {margin-top: 2%;}
-				#col1, #col2 {margin: 2% 8% 1% 8%;}
+				#col, #col1, #col2, #col3 {margin: 2% 8% 1% 8%;}
 				#esittely, #esittely1 {padding: 1% 5% 1% 5%;}
 				.navbar-brand {font-size: 110%;}
 				.artickle, .aside {width: 100%; height: auto; margin-top: 2%; padding-bottom: 0%; margin-bottom: 0%; border-radius: 20px;}
